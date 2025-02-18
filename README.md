@@ -79,5 +79,5 @@ import re
 
 Bu şekilde düzenli ifadeler ile metin işleme yapabilirsiniz.
 
-Kurulum sürecinde herhangi bir sorun yaşarsanız, hata mesajını bizimle paylaşabilirsiniz.
+Kurulum sürecinde herhangi bir sorun yaşarsanız, hata mesajını soru olarak paylasin.
 
