@@ -38,15 +38,5 @@ jupyter notebook
 ```
 Bu komut, tarayıcıda Jupyter Notebook arayüzünü açar.
 
-## 6. Sanal Ortam Kullanımı (Opsiyonel)
-Jupyter'i belirli bir sanal ortamda kullanmak isterseniz şu adımları izleyebilirsiniz:
-```
-python -m venv myenv
-source myenv/bin/activate  # (Windows kullanıcıları için: myenv\Scripts\activate)
-pip install jupyter
-python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
-```
-VS Code'da kernel seçeneklerinden **Python (myenv)** işaretlenerek bu sanal ortam kullanılabilir.
 
-Bu adımları takip ederek VS Code'da Jupyter Notebook kullanmaya başlayabilirsiniz.
 
