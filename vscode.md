@@ -39,4 +39,8 @@ jupyter notebook
 Bu komut, tarayıcıda Jupyter Notebook arayüzünü açar.
 
 
+## Önemli Not
+Bazı virüs programları, yüklediğiniz dosyaları yanlışlıkla zararlı olarak algılayıp silebilir. Eğer indirdiğiniz bir dosya kaybolursa, virüs programınızın karantina bölümünü kontrol edin ve güvenli olduğunu onaylayarak geri yükleyin. Ayrıca, kurulum dosyalarını güvenilir kaynaklardan indirdiğinizden emin olun.
+
+Bu adımları takip ederek VS Code'da Jupyter Notebook kullanmaya başlayabilirsiniz.
 
